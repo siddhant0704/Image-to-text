@@ -1,6 +1,6 @@
-# Speech-to-text
+# Image-to-text
 
-This repository contains code for a speech-to-text model using image captioning. The model used in this project is based on Salesforce's Blip Image Captioning Model.
+This repository contains code for an Image-to-text model using image captioning. The model used in this project is based on Salesforce's Blip Image Captioning Model.
 
 ## Description
 This project demonstrates how to use the Blip Image Captioning Model to perform conditional and unconditional image captioning and then extract potential keywords based on part-of-speech tagging. The extracted keywords are then matched to predefined categories.
